@@ -15,3 +15,4 @@ There is no user listed as Adam so the result is user not found as they have not
 
 
 Question 4: What capability is achieved by the flask library?
+Flask is a micro-web framework which is widely used for creating APIs in python, it is designed to be easy and quick to use with the ability to scale up for complex applications. As this exercise has demonstrated this flask library is able to generate a database online of users, which it is easy to factor up for a greater use of users, and return the users information. It is also simple to add or delete users and to have warning messages when users are not found.
