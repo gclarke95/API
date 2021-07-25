@@ -1,4 +1,4 @@
-Herre I created a RESTful API which can be used to create and delete user records. 
+Here I created a RESTful API which can be used to create and delete user records. 
 
 Responses to the questions asked are shown in my E-portfolio and below. 
 
